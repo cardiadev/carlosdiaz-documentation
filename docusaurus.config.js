@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo_128.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Made with ❤️ for all the world by <strong><a href="https://carlosdiaz.dev/" target="_blank">Carlos Diaz</a></strong> using Docusaurus.`,
+        copyright: `<p style="margin:50px 0 0px 0; font-size:14px">Copyright © ${new Date().getFullYear()} Made with ❤️ for all the world by <strong><a href="https://carlosdiaz.dev/" target="_blank">Carlos Diaz</a></strong> using Docusaurus.</p>`,
       },
       prism: {
         theme: lightCodeTheme,
